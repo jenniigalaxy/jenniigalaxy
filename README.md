@@ -1,5 +1,5 @@
 <h2>Hello earthlings! 👋👽 <br>I'm Jennii Galaxy<br>a Full Stack Web Developer, Designer, Illustrator, & All-Around Eccentric</h2>
-<p align="center">:globe_with_meridians: <a href="https://jennii.digital" target="_blank" title="Jennii.Digital">Personal Website</a> | <a href="https://www.instagram.com/jenniigalaxy/" target="_blank">Instagram</a> | <a href="https://twitter.com/jenniigalaxy" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/jennii/" target="_blank">LinkedIn</a> | <a href="mailto:jenniidigital@gmail.com">Email</a> :love_letter:</p>
+<p align="center">:globe_with_meridians: <a href="https://jennii.digital" target="_blank" title="Jennii.Digital">Personal Website</a> | <a href="https://www.instagram.com/jenniigalaxy/" target="_blank">Instagram</a> | <a href="https://www.linkedin.com/in/jennii/" target="_blank">LinkedIn</a></p>
 
 <img src="https://github.com/jenniigalaxy/jenniigalaxy/blob/main/images/1533073484727.jpg">
 
