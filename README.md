@@ -17,6 +17,6 @@
 - 🎮 I'm passionate about video games & modding them! Favorites include: :dragon: Elden Ring, ☢️ Fallout 4, & ⏲️ Chrono Trigger
 - 🎵 I love dark electronic music, especially 🐶 Skinny Puppy, 🛠️ Front Line Assembly, & 🍄 Infected Mushroom
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=scifiguru&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=scifiguru&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=scifiguru&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=scifiguru&redirect=true)
 
 <h6>I'm also immensely socially awkward and I have no idea how to end this so THANKS FOR VISITING BYE</h6>
